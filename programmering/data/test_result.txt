@@ -1,0 +1,60 @@
+Adam Gustafsson 25
+Emil Johansson 23
+Sven Erik Karlsson 13
+Ove Karlsten 41
+Emma Boden 32
+Ida Håkansson 23
+Ella Ester 41
+Hanna Karlsson 23 
+Johan Johansson 42
+Sven Erik Lundin 39
+Björn Björnsson 39
+Karl Karlsson 32
+Bose Bosseson 32
+Håkan Håkanson 24
+Jonas Jonasson 31
+Erik Eriksson 31
+Gore Bord 55
+Jakob Kallander 65
+Fredrika Ulven 10
+
+sorted list- Sorted alphabetically
+
+Adam Gustafsson 25
+Björn Björnsson 39
+Bose Bosseson 32
+Ella Ester 41
+Emil Johansson 23
+Emma Boden 32
+Erik Eriksson 31
+Fredrika Ulven 10
+Gore Bord 55
+Hanna Karlsson 23 
+Håkan Håkanson 24
+Ida Håkansson 23
+Jakob Kallander 65
+Johan Johansson 42
+Jonas Jonasson 31
+Karl Karlsson 32
+Ove Karlsten 41
+Sven Erik Karlsson 13
+Sven Erik Lundin 39
+
+namn: Adam Gustafsson - poäng: 25 betyg: E
+namn: Emil Johansson - poäng: 23 betyg: E
+namn: Sven Erik Karlsson - poäng: 13 betyg: F
+namn: Ove Karlsten - poäng: 41 betyg: C
+namn: Emma Boden - poäng: 32 betyg: D
+namn: Ida Håkansson - poäng: 23 betyg: E
+namn: Ella Ester - poäng: 41 betyg: C
+namn: Johan Johansson - poäng: 42 betyg: C
+namn: Sven Erik Lundin - poäng: 39 betyg: D
+namn: Björn Björnsson - poäng: 39 betyg: D
+namn: Karl Karlsson - poäng: 32 betyg: D
+namn: Bose Bosseson - poäng: 32 betyg: D
+namn: Håkan Håkanson - poäng: 24 betyg: E
+namn: Jonas Jonasson - poäng: 31 betyg: D
+namn: Erik Eriksson - poäng: 31 betyg: D
+namn: Gore Bord - poäng: 55 betyg: B
+namn: Jakob Kallander - poäng: 65 betyg: A
+namn: Fredrika Ulven - poäng: 10 betyg: F

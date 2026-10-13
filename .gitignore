@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+!/Databaser/
+!/databehandling/
+!/programmering/
+
+databehandling/Chicago/chicago_crime.csv
+.env
+.venv/
+__pycache__/

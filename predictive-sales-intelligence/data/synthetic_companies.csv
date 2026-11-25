@@ -1,0 +1,501 @@
+Record ID,Company name,Company Domain Name,Company owner,Current Customer,Last Activity Date,Company size
+10001,Urban Logistics,urbanlogistics.com,,True,2025-10-27 23:01:18,500+
+10002,Nova Partners,novapartners.io,,True,,1-10
+10003,Tech AB,techab.com,,True,,51-200
+10004,Urban Digital,urbandigital.org,,True,2025-10-18 23:01:18,11-50
+10005,Apex Digital,apexdigital.se,,True,,1-10
+10006,Urban Digital,urbandigital.net,,True,,11-50
+10007,Alpha Solutions,alphasolutions.se,,True,,500+
+10008,Nova Digital,novadigital.org,,True,2026-07-06 23:01:18,11-50
+10009,Apex AB,apexab.com,,True,2026-06-25 23:01:18,51-200
+10010,Urban Solutions,urbansolutions.io,Anna Svensson,True,,51-200
+10011,Urban Digital,urbandigital.se,,True,2026-04-11 23:01:18,500+
+10012,Svea Group,sveagroup.com,,True,,51-200
+10013,Nova Solutions,novasolutions.net,,True,2026-08-25 23:01:18,11-50
+10014,Apex Logistics,apexlogistics.com,,True,,201-500
+10015,Urban Labs,urbanlabs.org,,True,2026-09-23 23:01:18,500+
+10016,Nova AB,novaab.io,,True,,500+
+10017,Alpha Partners,alphapartners.io,,True,,500+
+10018,Tech Logistics,techlogistics.net,,True,,11-50
+10019,Apex Labs,apexlabs.io,,True,,51-200
+10020,Tech Logistics,techlogistics.com,,True,,51-200
+10021,Global Labs,globallabs.net,,True,,1-10
+10022,Urban Logistics,urbanlogistics.se,,True,,500+
+10023,Urban Digital,urbandigital.se,,True,,51-200
+10024,Nordic Logistics,nordiclogistics.org,,True,2025-10-24 23:01:18,500+
+10025,Nordic Digital,nordicdigital.se,,True,,11-50
+10026,Tech Logistics,techlogistics.com,,True,,201-500
+10027,Svea Group,sveagroup.org,,True,,51-200
+10028,Alpha Logistics,alphalogistics.com,,True,2026-09-06 23:01:18,11-50
+10029,Global Group,globalgroup.io,,True,2026-03-13 23:01:18,51-200
+10030,Nordic AB,nordicab.com,,True,,11-50
+10031,Alpha Digital,alphadigital.io,,True,2026-10-16 23:01:18,1-10
+10032,Urban Logistics,urbanlogistics.org,,True,,1-10
+10033,Apex Group,apexgroup.io,,True,,1-10
+10034,Svea Labs,svealabs.com,,True,2025-10-22 23:01:18,51-200
+10035,Nova Labs,novalabs.se,,True,,500+
+10036,Apex Logistics,apexlogistics.io,,True,2026-05-05 23:01:18,11-50
+10037,Global Labs,globallabs.com,,True,2026-07-16 23:01:18,500+
+10038,Nordic Labs,nordiclabs.net,,True,,201-500
+10039,Urban Partners,urbanpartners.io,,True,2025-12-26 23:01:18,11-50
+10040,Svea Digital,sveadigital.org,,True,2025-12-28 23:01:18,201-500
+10041,Apex Labs,apexlabs.io,,True,,11-50
+10042,Global AB,globalab.com,,True,2026-07-30 23:01:18,201-500
+10043,Urban AB,urbanab.io,,True,2026-01-24 23:01:18,11-50
+10044,Svea Group,sveagroup.com,,True,2026-09-18 23:01:18,51-200
+10045,Global Solutions,globalsolutions.com,,True,,51-200
+10046,Tech AB,techab.com,,True,2026-03-30 23:01:18,500+
+10047,Svea Partners,sveapartners.net,,True,,51-200
+10048,Apex AB,apexab.net,,True,,51-200
+10049,Apex Labs,apexlabs.net,,True,,1-10
+10050,Global Group,globalgroup.io,,True,,51-200
+10051,Alpha Logistics,alphalogistics.net,Maria Karlsson,True,,51-200
+10052,Tech Digital,techdigital.io,,True,,1-10
+10053,Alpha Labs,alphalabs.io,,True,,1-10
+10054,Svea Logistics,svealogistics.io,Erik Lindqvist,True,,11-50
+10055,Urban Digital,urbandigital.net,,True,2026-10-04 23:01:18,201-500
+10056,Global Group,globalgroup.org,,True,,500+
+10057,Tech Digital,techdigital.io,,True,2026-09-18 23:01:18,1-10
+10058,Nova Solutions,novasolutions.net,,True,,51-200
+10059,Svea Partners,sveapartners.net,,True,2026-08-31 23:01:18,201-500
+10060,Global Solutions,globalsolutions.org,,True,2026-06-13 23:01:18,51-200
+10061,Apex Labs,apexlabs.org,,True,,1-10
+10062,Urban Logistics,urbanlogistics.se,Erik Lindqvist,True,2026-02-07 23:01:18,201-500
+10063,Apex Partners,apexpartners.se,,True,2025-12-22 23:01:18,500+
+10064,Nova AB,novaab.com,,True,,51-200
+10065,Alpha Group,alphagroup.io,,True,2026-06-05 23:01:18,1-10
+10066,Svea Solutions,sveasolutions.net,,True,2026-09-17 23:01:18,51-200
+10067,Svea Digital,sveadigital.se,,True,,51-200
+10068,Urban AB,urbanab.net,,True,,1-10
+10069,Alpha Labs,alphalabs.org,,True,2026-05-24 23:01:18,1-10
+10070,Alpha Digital,alphadigital.org,,True,2026-08-17 23:01:18,11-50
+10071,Urban Logistics,urbanlogistics.org,,True,2026-01-31 23:01:18,11-50
+10072,Svea AB,sveaab.net,,True,2026-06-16 23:01:18,500+
+10073,Nova Logistics,novalogistics.com,,True,,201-500
+10074,Tech Group,techgroup.net,,True,2026-08-09 23:01:18,11-50
+10075,Nordic AB,nordicab.se,,True,,1-10
+10076,Tech Labs,techlabs.net,,True,,500+
+10077,Tech Logistics,techlogistics.com,Erik Lindqvist,True,,201-500
+10078,Svea Partners,sveapartners.com,,True,2026-05-11 23:01:18,201-500
+10079,Svea Labs,svealabs.net,,True,,1-10
+10080,Urban Group,urbangroup.org,,True,,1-10
+10081,Nova Solutions,novasolutions.org,,True,,51-200
+10082,Alpha Partners,alphapartners.net,,True,,201-500
+10083,Urban Digital,urbandigital.io,Maria Karlsson,True,,1-10
+10084,Apex Labs,apexlabs.io,,True,,201-500
+10085,Svea Group,sveagroup.com,,True,,201-500
+10086,Tech Logistics,techlogistics.net,,True,2026-03-03 23:01:18,11-50
+10087,Tech AB,techab.net,,True,,1-10
+10088,Tech Labs,techlabs.se,,True,,11-50
+10089,Urban Solutions,urbansolutions.net,,True,,201-500
+10090,Apex Labs,apexlabs.com,,True,,201-500
+10091,Tech AB,techab.se,,True,,201-500
+10092,Tech Digital,techdigital.io,,True,,1-10
+10093,Tech Logistics,techlogistics.org,,True,2025-10-25 23:01:18,51-200
+10094,Svea AB,sveaab.io,,True,2026-09-13 23:01:18,201-500
+10095,Urban Partners,urbanpartners.net,,True,,201-500
+10096,Apex Solutions,apexsolutions.org,Anna Svensson,True,,201-500
+10097,Nordic AB,nordicab.com,,True,,51-200
+10098,Tech Group,techgroup.com,,True,2026-01-05 23:01:18,1-10
+10099,Tech Labs,techlabs.net,,True,,201-500
+10100,Urban AB,urbanab.org,,True,2025-11-08 23:01:18,51-200
+10101,Svea AB,sveaab.com,,True,2026-07-18 23:01:18,11-50
+10102,Urban Group,urbangroup.com,,True,,201-500
+10103,Apex Solutions,apexsolutions.com,,True,2026-06-28 23:01:18,500+
+10104,Global Labs,globallabs.se,,True,2026-08-07 23:01:18,201-500
+10105,Apex Group,apexgroup.se,,True,,201-500
+10106,Apex Logistics,apexlogistics.org,,True,,201-500
+10107,Global Logistics,globallogistics.com,,True,2026-05-20 23:01:18,1-10
+10108,Nordic Digital,nordicdigital.org,Anna Svensson,True,,51-200
+10109,Apex Group,apexgroup.org,,True,,1-10
+10110,Apex Digital,apexdigital.com,,True,,500+
+10111,Nordic Logistics,nordiclogistics.se,,True,2025-10-18 23:01:18,11-50
+10112,Nordic Partners,nordicpartners.net,,True,,201-500
+10113,Global Group,globalgroup.net,,True,2026-05-09 23:01:18,1-10
+10114,Nordic AB,nordicab.org,,True,,11-50
+10115,Alpha Group,alphagroup.se,,True,,51-200
+10116,Apex AB,apexab.org,,True,2026-07-29 23:01:18,11-50
+10117,Apex Logistics,apexlogistics.net,,True,2026-02-25 23:01:18,11-50
+10118,Urban Labs,urbanlabs.se,,True,,1-10
+10119,Global Solutions,globalsolutions.se,,True,2026-04-22 23:01:18,500+
+10120,Nova Group,novagroup.com,,True,2026-05-29 23:01:18,11-50
+10121,Tech Logistics,techlogistics.se,,True,,1-10
+10122,Nova Group,novagroup.net,,True,,201-500
+10123,Nordic Digital,nordicdigital.io,,True,,201-500
+10124,Nova AB,novaab.net,,True,,11-50
+10125,Urban Labs,urbanlabs.net,,True,,1-10
+10126,Apex Solutions,apexsolutions.org,,True,,11-50
+10127,Tech Logistics,techlogistics.net,,True,,51-200
+10128,Svea AB,sveaab.se,,True,,201-500
+10129,Urban AB,urbanab.com,,True,,11-50
+10130,Nordic Group,nordicgroup.io,,True,,500+
+10131,Alpha Digital,alphadigital.com,,True,,201-500
+10132,Urban AB,urbanab.org,,True,,500+
+10133,Urban Partners,urbanpartners.io,,True,2025-10-19 23:01:18,11-50
+10134,Tech Partners,techpartners.net,,True,,500+
+10135,Nova Solutions,novasolutions.se,,True,,1-10
+10136,Apex Logistics,apexlogistics.org,,True,,51-200
+10137,Global Partners,globalpartners.io,,True,,500+
+10138,Tech Group,techgroup.se,,True,2026-02-07 23:01:18,1-10
+10139,Apex Labs,apexlabs.com,,True,2026-06-14 23:01:18,11-50
+10140,Alpha Partners,alphapartners.net,Anna Svensson,True,,500+
+10141,Nova Labs,novalabs.io,,True,,1-10
+10142,Svea Partners,sveapartners.io,,True,,11-50
+10143,Nordic AB,nordicab.se,,True,2026-08-05 23:01:18,1-10
+10144,Urban Solutions,urbansolutions.com,,True,,500+
+10145,Urban Partners,urbanpartners.se,,True,2026-07-15 23:01:18,11-50
+10146,Nordic Partners,nordicpartners.io,,True,,1-10
+10147,Urban Partners,urbanpartners.io,,True,2026-10-16 23:01:18,500+
+10148,Alpha Solutions,alphasolutions.io,,True,,51-200
+10149,Nova Partners,novapartners.io,,True,,1-10
+10150,Global Digital,globaldigital.com,,True,,51-200
+10151,Svea Partners,sveapartners.org,,True,2026-06-08 23:01:18,500+
+10152,Tech Labs,techlabs.io,,True,,500+
+10153,Urban AB,urbanab.org,,True,2026-07-01 23:01:18,500+
+10154,Svea Partners,sveapartners.se,,True,,51-200
+10155,Global Group,globalgroup.net,,True,2026-10-02 23:01:18,51-200
+10156,Apex Solutions,apexsolutions.com,,True,,1-10
+10157,Alpha Solutions,alphasolutions.net,,True,,1-10
+10158,Alpha Labs,alphalabs.io,,True,,51-200
+10159,Tech Labs,techlabs.com,,True,,51-200
+10160,Global Logistics,globallogistics.net,,True,,500+
+10161,Urban Labs,urbanlabs.se,,True,2026-05-22 23:01:18,51-200
+10162,Svea Logistics,svealogistics.com,,True,2026-02-18 23:01:18,51-200
+10163,Svea Digital,sveadigital.org,,True,,500+
+10164,Apex Logistics,apexlogistics.org,Erik Lindqvist,True,,500+
+10165,Tech Group,techgroup.io,,True,,1-10
+10166,Svea Group,sveagroup.io,Maria Karlsson,True,2026-10-07 23:01:18,51-200
+10167,Urban Labs,urbanlabs.com,,True,,11-50
+10168,Apex Partners,apexpartners.net,,True,,500+
+10169,Global Solutions,globalsolutions.se,,True,2026-07-25 23:01:18,11-50
+10170,Tech AB,techab.com,,True,,51-200
+10171,Urban Partners,urbanpartners.io,,True,,201-500
+10172,Global Partners,globalpartners.com,,True,,201-500
+10173,Global Labs,globallabs.com,,True,,1-10
+10174,Global AB,globalab.com,,True,2025-10-16 23:01:18,201-500
+10175,Svea Labs,svealabs.se,,True,2026-05-05 23:01:18,1-10
+10176,Alpha Solutions,alphasolutions.se,,True,,11-50
+10177,Global Solutions,globalsolutions.com,,True,2026-06-08 23:01:18,201-500
+10178,Svea Labs,svealabs.se,,True,,500+
+10179,Tech Partners,techpartners.se,,True,2025-12-15 23:01:18,201-500
+10180,Alpha Digital,alphadigital.com,,True,2026-05-04 23:01:18,1-10
+10181,Global AB,globalab.org,,True,,500+
+10182,Alpha Group,alphagroup.org,,True,2026-05-11 23:01:18,500+
+10183,Nordic Partners,nordicpartners.net,,True,2026-01-06 23:01:18,500+
+10184,Nova Partners,novapartners.com,,True,,11-50
+10185,Apex Digital,apexdigital.org,,True,,11-50
+10186,Apex Digital,apexdigital.com,,True,2026-09-07 23:01:18,51-200
+10187,Alpha Solutions,alphasolutions.net,,True,2025-10-27 23:01:18,1-10
+10188,Alpha Digital,alphadigital.net,,True,,1-10
+10189,Svea Solutions,sveasolutions.org,,True,2025-12-12 23:01:18,1-10
+10190,Urban Partners,urbanpartners.io,,True,,11-50
+10191,Alpha Logistics,alphalogistics.io,,True,2026-04-03 23:01:18,51-200
+10192,Alpha Solutions,alphasolutions.net,Anna Svensson,True,2026-01-14 23:01:18,1-10
+10193,Nordic Labs,nordiclabs.net,,True,,1-10
+10194,Alpha Digital,alphadigital.net,,True,,51-200
+10195,Urban Group,urbangroup.se,,True,,51-200
+10196,Tech Labs,techlabs.com,,True,,51-200
+10197,Apex AB,apexab.com,,True,,11-50
+10198,Nordic Solutions,nordicsolutions.se,,True,2026-04-18 23:01:18,500+
+10199,Tech Digital,techdigital.se,,True,,51-200
+10200,Nordic Labs,nordiclabs.se,,True,2026-07-01 23:01:18,201-500
+10201,Nova Digital,novadigital.net,,True,,11-50
+10202,Nordic Labs,nordiclabs.org,,True,2026-10-09 23:01:18,500+
+10203,Global Logistics,globallogistics.com,,True,,51-200
+10204,Urban Partners,urbanpartners.net,,True,,201-500
+10205,Global Group,globalgroup.org,,True,,11-50
+10206,Alpha Solutions,alphasolutions.org,,True,2026-06-08 23:01:18,51-200
+10207,Nova Solutions,novasolutions.io,,True,,500+
+10208,Nordic Labs,nordiclabs.se,,True,,1-10
+10209,Nordic Digital,nordicdigital.se,,True,,201-500
+10210,Nordic Group,nordicgroup.net,,True,2026-08-12 23:01:18,11-50
+10211,Urban Solutions,urbansolutions.io,,True,,1-10
+10212,Nova Digital,novadigital.com,,True,2026-04-01 23:01:18,201-500
+10213,Tech Labs,techlabs.se,,True,,201-500
+10214,Alpha Digital,alphadigital.org,Anna Svensson,True,2026-01-07 23:01:18,1-10
+10215,Nova AB,novaab.se,,True,,1-10
+10216,Apex Solutions,apexsolutions.net,,True,,11-50
+10217,Global Digital,globaldigital.com,,True,,201-500
+10218,Svea Partners,sveapartners.org,,True,,11-50
+10219,Urban Group,urbangroup.com,,True,,1-10
+10220,Apex Digital,apexdigital.com,,True,,500+
+10221,Global Partners,globalpartners.com,,True,,201-500
+10222,Apex Logistics,apexlogistics.com,,True,,51-200
+10223,Nova AB,novaab.com,,True,,500+
+10224,Tech Partners,techpartners.org,,True,2026-05-21 23:01:18,11-50
+10225,Apex Solutions,apexsolutions.se,,True,,51-200
+10226,Nova Solutions,novasolutions.net,,True,,51-200
+10227,Apex Digital,apexdigital.se,,True,,11-50
+10228,Apex Solutions,apexsolutions.io,,True,,500+
+10229,Urban Group,urbangroup.se,,True,,201-500
+10230,Apex Partners,apexpartners.com,,True,2025-12-02 23:01:18,201-500
+10231,Nova Logistics,novalogistics.io,,True,,51-200
+10232,Svea Labs,svealabs.se,,True,,51-200
+10233,Apex Solutions,apexsolutions.com,,True,2025-12-31 23:01:18,1-10
+10234,Alpha Digital,alphadigital.org,,True,,500+
+10235,Nordic Solutions,nordicsolutions.org,,True,2026-05-18 23:01:18,500+
+10236,Global Group,globalgroup.net,,True,,11-50
+10237,Svea Solutions,sveasolutions.net,,True,,500+
+10238,Tech Partners,techpartners.net,,True,,500+
+10239,Tech AB,techab.org,,True,2026-04-25 23:01:18,11-50
+10240,Apex Partners,apexpartners.io,,True,,11-50
+10241,Alpha Solutions,alphasolutions.net,,True,,201-500
+10242,Nova Logistics,novalogistics.io,,True,,11-50
+10243,Svea Logistics,svealogistics.org,,True,,11-50
+10244,Global AB,globalab.com,,True,,201-500
+10245,Global Logistics,globallogistics.se,,True,,51-200
+10246,Tech Group,techgroup.net,,True,2026-08-24 23:01:18,51-200
+10247,Svea Partners,sveapartners.org,,True,,1-10
+10248,Alpha Labs,alphalabs.io,,True,,201-500
+10249,Apex AB,apexab.io,,True,,51-200
+10250,Urban Partners,urbanpartners.se,,True,,1-10
+10251,Apex Logistics,apexlogistics.org,,True,,201-500
+10252,Tech Solutions,techsolutions.com,,True,2025-11-16 23:01:18,51-200
+10253,Global AB,globalab.com,,True,,51-200
+10254,Tech Logistics,techlogistics.com,,True,2025-12-30 23:01:18,11-50
+10255,Apex AB,apexab.net,,True,,201-500
+10256,Alpha AB,alphaab.org,,True,,51-200
+10257,Nova Group,novagroup.com,,True,,1-10
+10258,Apex Digital,apexdigital.se,,True,,201-500
+10259,Svea Logistics,svealogistics.org,,True,,51-200
+10260,Alpha Solutions,alphasolutions.net,,True,,500+
+10261,Global Group,globalgroup.com,,True,2026-09-25 23:01:18,11-50
+10262,Nordic Logistics,nordiclogistics.com,,True,,201-500
+10263,Nova Group,novagroup.io,,True,2026-08-07 23:01:18,500+
+10264,Global Solutions,globalsolutions.io,,True,,51-200
+10265,Nordic Digital,nordicdigital.io,,True,2026-09-19 23:01:18,1-10
+10266,Global Solutions,globalsolutions.org,,True,,51-200
+10267,Global AB,globalab.io,,True,,1-10
+10268,Nova Logistics,novalogistics.io,,True,,1-10
+10269,Tech AB,techab.org,,True,,11-50
+10270,Nova Solutions,novasolutions.net,,True,,1-10
+10271,Alpha AB,alphaab.se,,True,,500+
+10272,Alpha Digital,alphadigital.net,,True,,1-10
+10273,Apex Logistics,apexlogistics.net,,True,,201-500
+10274,Svea Partners,sveapartners.io,,True,,1-10
+10275,Svea Digital,sveadigital.se,,True,,500+
+10276,Svea Group,sveagroup.se,,True,2026-07-04 23:01:18,1-10
+10277,Alpha Labs,alphalabs.io,,True,,500+
+10278,Global Partners,globalpartners.se,,True,,1-10
+10279,Svea Group,sveagroup.se,,True,,500+
+10280,Tech Digital,techdigital.net,,True,,201-500
+10281,Tech Labs,techlabs.net,,True,2026-05-14 23:01:18,201-500
+10282,Urban Partners,urbanpartners.org,,True,2026-01-16 23:01:18,1-10
+10283,Apex Group,apexgroup.net,,True,,500+
+10284,Svea Solutions,sveasolutions.io,,True,2026-04-19 23:01:18,11-50
+10285,Tech Partners,techpartners.se,,True,2026-07-14 23:01:18,51-200
+10286,Nordic Partners,nordicpartners.se,,True,,201-500
+10287,Svea AB,sveaab.com,,True,,201-500
+10288,Nordic AB,nordicab.io,,True,,1-10
+10289,Nordic Group,nordicgroup.org,,True,,11-50
+10290,Nova Solutions,novasolutions.io,,True,2025-10-17 23:01:18,1-10
+10291,Alpha Digital,alphadigital.se,,True,2026-08-14 23:01:18,201-500
+10292,Global Group,globalgroup.com,,True,2026-08-25 23:01:18,201-500
+10293,Global Partners,globalpartners.net,,True,,51-200
+10294,Apex AB,apexab.io,,True,,500+
+10295,Urban Logistics,urbanlogistics.org,,True,,201-500
+10296,Urban Partners,urbanpartners.org,,True,2025-10-29 23:01:18,500+
+10297,Svea Labs,svealabs.com,,True,,201-500
+10298,Apex Digital,apexdigital.io,,True,2026-01-09 23:01:18,500+
+10299,Nova Solutions,novasolutions.net,,True,2026-01-24 23:01:18,201-500
+10300,Svea Labs,svealabs.com,,True,2026-05-11 23:01:18,51-200
+10301,Nova Partners,novapartners.com,,True,,51-200
+10302,Tech Logistics,techlogistics.com,,True,2026-08-29 23:01:18,500+
+10303,Tech Solutions,techsolutions.org,,True,,11-50
+10304,Urban Logistics,urbanlogistics.io,,True,,1-10
+10305,Svea Digital,sveadigital.org,,True,,1-10
+10306,Apex Solutions,apexsolutions.io,,True,,500+
+10307,Nordic Labs,nordiclabs.com,,True,,11-50
+10308,Nordic AB,nordicab.se,,True,,51-200
+10309,Nordic Group,nordicgroup.com,,True,,500+
+10310,Nova Logistics,novalogistics.io,,True,,201-500
+10311,Tech Logistics,techlogistics.com,,True,2026-02-15 23:01:18,1-10
+10312,Alpha Solutions,alphasolutions.org,,True,2025-12-08 23:01:18,201-500
+10313,Nova Solutions,novasolutions.se,,True,,1-10
+10314,Nova Digital,novadigital.net,,True,,201-500
+10315,Tech Logistics,techlogistics.se,,True,,500+
+10316,Tech AB,techab.se,,True,,1-10
+10317,Apex Partners,apexpartners.io,,True,2026-08-29 23:01:18,11-50
+10318,Nordic Labs,nordiclabs.net,,True,,51-200
+10319,Alpha Solutions,alphasolutions.io,,True,,201-500
+10320,Tech Logistics,techlogistics.org,Erik Lindqvist,True,,500+
+10321,Nova AB,novaab.se,,True,,51-200
+10322,Urban AB,urbanab.org,,True,,11-50
+10323,Nova Logistics,novalogistics.net,,True,,51-200
+10324,Svea Digital,sveadigital.com,,True,,51-200
+10325,Apex Logistics,apexlogistics.net,,True,2026-09-10 23:01:18,500+
+10326,Alpha Group,alphagroup.io,,True,,500+
+10327,Tech Labs,techlabs.se,,True,2026-01-12 23:01:18,201-500
+10328,Tech Solutions,techsolutions.se,,True,,51-200
+10329,Urban Logistics,urbanlogistics.com,,True,2025-10-31 23:01:18,1-10
+10330,Global Digital,globaldigital.se,Maria Karlsson,True,,201-500
+10331,Apex Labs,apexlabs.io,,True,,11-50
+10332,Tech Digital,techdigital.net,,True,,11-50
+10333,Nova Group,novagroup.io,,True,,1-10
+10334,Alpha Logistics,alphalogistics.net,,True,,201-500
+10335,Apex Partners,apexpartners.se,,True,,11-50
+10336,Nova Logistics,novalogistics.se,,True,,500+
+10337,Apex Digital,apexdigital.io,,True,2026-01-12 23:01:18,1-10
+10338,Global Labs,globallabs.io,,True,,201-500
+10339,Svea Group,sveagroup.com,,True,,11-50
+10340,Global Digital,globaldigital.org,,True,2026-06-10 23:01:18,11-50
+10341,Nordic Solutions,nordicsolutions.se,,True,2025-11-03 23:01:18,500+
+10342,Nova Solutions,novasolutions.io,,True,,11-50
+10343,Tech AB,techab.com,,True,2026-01-25 23:01:18,500+
+10344,Tech Digital,techdigital.org,,True,,500+
+10345,Apex Group,apexgroup.io,,True,,51-200
+10346,Svea Partners,sveapartners.io,,True,,11-50
+10347,Nordic Group,nordicgroup.net,,True,,51-200
+10348,Alpha AB,alphaab.io,,True,,51-200
+10349,Global Digital,globaldigital.org,,True,,201-500
+10350,Urban Group,urbangroup.org,,True,2025-12-09 23:01:18,11-50
+10351,Urban AB,urbanab.com,,True,,1-10
+10352,Urban Solutions,urbansolutions.org,,True,2026-02-12 23:01:18,51-200
+10353,Urban Digital,urbandigital.com,,True,,11-50
+10354,Global Labs,globallabs.org,Anna Svensson,True,,500+
+10355,Global Labs,globallabs.io,,True,,11-50
+10356,Nova Partners,novapartners.com,,True,,500+
+10357,Tech Group,techgroup.com,Maria Karlsson,True,2026-08-08 23:01:18,201-500
+10358,Tech Solutions,techsolutions.org,,True,2026-03-03 23:01:18,51-200
+10359,Alpha Solutions,alphasolutions.com,,True,2026-06-03 23:01:18,11-50
+10360,Alpha AB,alphaab.io,,True,,500+
+10361,Urban Partners,urbanpartners.io,,True,2026-01-25 23:01:18,11-50
+10362,Global Solutions,globalsolutions.se,,True,2025-12-31 23:01:18,51-200
+10363,Svea Group,sveagroup.org,,True,2026-02-24 23:01:18,1-10
+10364,Apex Group,apexgroup.io,,True,2026-09-17 23:01:18,201-500
+10365,Urban Digital,urbandigital.se,,True,2026-02-02 23:01:18,51-200
+10366,Nordic Labs,nordiclabs.net,,True,2025-11-28 23:01:18,201-500
+10367,Nova AB,novaab.net,,True,,500+
+10368,Alpha Group,alphagroup.se,,True,,1-10
+10369,Tech Logistics,techlogistics.net,,True,2026-04-10 23:01:18,500+
+10370,Nordic Partners,nordicpartners.net,,True,,500+
+10371,Apex Group,apexgroup.io,,True,,1-10
+10372,Apex Solutions,apexsolutions.se,,True,2026-05-03 23:01:18,11-50
+10373,Nova Labs,novalabs.net,,True,,1-10
+10374,Nova AB,novaab.org,,True,,201-500
+10375,Nordic Logistics,nordiclogistics.net,,True,2026-02-09 23:01:18,51-200
+10376,Nordic Labs,nordiclabs.se,,True,,201-500
+10377,Apex Group,apexgroup.se,,True,,1-10
+10378,Nordic Digital,nordicdigital.com,,True,,11-50
+10379,Alpha Partners,alphapartners.net,,True,2026-04-25 23:01:18,51-200
+10380,Urban Logistics,urbanlogistics.com,,True,,500+
+10381,Svea Group,sveagroup.org,,True,2026-09-19 23:01:18,11-50
+10382,Nordic Digital,nordicdigital.com,,True,,51-200
+10383,Nova Logistics,novalogistics.com,,True,,500+
+10384,Nordic Digital,nordicdigital.net,,True,2025-10-21 23:01:18,500+
+10385,Global Logistics,globallogistics.se,,True,,11-50
+10386,Alpha Labs,alphalabs.org,,True,,51-200
+10387,Nordic Digital,nordicdigital.net,,True,2026-04-05 23:01:18,11-50
+10388,Nova Labs,novalabs.io,,True,,500+
+10389,Nordic Logistics,nordiclogistics.io,,True,,11-50
+10390,Svea Logistics,svealogistics.com,,True,,11-50
+10391,Nordic Group,nordicgroup.se,,True,2026-04-17 23:01:18,500+
+10392,Nordic Solutions,nordicsolutions.org,,True,,500+
+10393,Urban Logistics,urbanlogistics.org,,True,,1-10
+10394,Svea Solutions,sveasolutions.org,,True,,11-50
+10395,Svea Logistics,svealogistics.org,,True,,201-500
+10396,Urban Digital,urbandigital.com,,True,,11-50
+10397,Alpha Labs,alphalabs.org,,True,,51-200
+10398,Urban Labs,urbanlabs.io,,True,2026-08-22 23:01:18,500+
+10399,Apex Digital,apexdigital.io,,True,,51-200
+10400,Nova Solutions,novasolutions.org,,True,,201-500
+10401,Nova AB,novaab.se,Anna Svensson,True,,51-200
+10402,Tech Partners,techpartners.net,,True,2025-12-21 23:01:18,11-50
+10403,Urban Labs,urbanlabs.io,,True,,500+
+10404,Apex Logistics,apexlogistics.net,,True,,51-200
+10405,Tech Solutions,techsolutions.net,,True,,11-50
+10406,Apex AB,apexab.io,,True,,51-200
+10407,Nova Partners,novapartners.io,,True,,51-200
+10408,Svea Logistics,svealogistics.io,,True,,51-200
+10409,Nordic Solutions,nordicsolutions.org,,True,,11-50
+10410,Global Logistics,globallogistics.se,,True,,51-200
+10411,Apex Solutions,apexsolutions.net,,True,2026-10-08 23:01:18,201-500
+10412,Nordic Group,nordicgroup.se,,True,,500+
+10413,Apex Partners,apexpartners.io,,True,2026-07-03 23:01:18,1-10
+10414,Global Labs,globallabs.org,,True,2026-04-05 23:01:18,11-50
+10415,Apex Logistics,apexlogistics.org,,True,2025-11-10 23:01:18,500+
+10416,Urban Solutions,urbansolutions.io,,True,2026-04-21 23:01:18,500+
+10417,Urban Group,urbangroup.io,,True,,201-500
+10418,Global AB,globalab.net,,True,2026-09-28 23:01:18,500+
+10419,Nordic Partners,nordicpartners.net,,True,,51-200
+10420,Global AB,globalab.se,,True,,500+
+10421,Nordic Digital,nordicdigital.com,,True,2026-06-26 23:01:18,1-10
+10422,Nordic Digital,nordicdigital.com,,True,2025-10-28 23:01:18,1-10
+10423,Apex Logistics,apexlogistics.com,,True,,51-200
+10424,Global Logistics,globallogistics.io,,True,,1-10
+10425,Apex Partners,apexpartners.se,,True,,500+
+10426,Nova Logistics,novalogistics.se,,True,,11-50
+10427,Global Group,globalgroup.se,,True,,201-500
+10428,Urban Logistics,urbanlogistics.io,,True,2025-11-07 23:01:18,11-50
+10429,Tech Digital,techdigital.org,,True,,1-10
+10430,Global Logistics,globallogistics.se,,True,2025-11-22 23:01:18,500+
+10431,Urban Logistics,urbanlogistics.io,,True,,51-200
+10432,Urban AB,urbanab.se,,True,,500+
+10433,Urban AB,urbanab.org,,True,,201-500
+10434,Apex AB,apexab.org,,True,,11-50
+10435,Tech Digital,techdigital.io,,True,,51-200
+10436,Global Logistics,globallogistics.io,,True,,1-10
+10437,Urban Solutions,urbansolutions.io,,True,2026-04-14 23:01:18,1-10
+10438,Svea Group,sveagroup.net,,True,2025-12-01 23:01:18,11-50
+10439,Nordic Digital,nordicdigital.io,,True,,500+
+10440,Urban Digital,urbandigital.com,,True,,201-500
+10441,Urban AB,urbanab.se,,True,2026-06-25 23:01:18,500+
+10442,Global Solutions,globalsolutions.io,Maria Karlsson,True,,201-500
+10443,Svea Labs,svealabs.org,,True,,201-500
+10444,Alpha Solutions,alphasolutions.org,,True,,11-50
+10445,Global Digital,globaldigital.org,,True,,500+
+10446,Nordic Partners,nordicpartners.se,,True,,51-200
+10447,Apex Partners,apexpartners.com,,True,2026-06-01 23:01:18,51-200
+10448,Global Group,globalgroup.org,,True,2026-10-03 23:01:18,11-50
+10449,Apex Group,apexgroup.io,,True,2026-06-22 23:01:18,1-10
+10450,Alpha Group,alphagroup.net,,True,2026-05-15 23:01:18,11-50
+10451,Urban Group,urbangroup.org,,True,,500+
+10452,Urban Labs,urbanlabs.org,,True,2026-07-22 23:01:18,51-200
+10453,Alpha Digital,alphadigital.net,,True,,201-500
+10454,Nordic Group,nordicgroup.io,,True,2026-10-16 23:01:18,500+
+10455,Svea AB,sveaab.org,,True,,51-200
+10456,Alpha Logistics,alphalogistics.net,,True,,500+
+10457,Nova Solutions,novasolutions.org,,True,,201-500
+10458,Tech Logistics,techlogistics.com,,True,,51-200
+10459,Nova Digital,novadigital.org,,True,,1-10
+10460,Nordic Partners,nordicpartners.se,,True,2026-01-03 23:01:18,201-500
+10461,Nordic Logistics,nordiclogistics.io,,True,,500+
+10462,Apex Logistics,apexlogistics.se,,True,2026-02-10 23:01:18,500+
+10463,Urban Solutions,urbansolutions.io,,True,,51-200
+10464,Nordic Logistics,nordiclogistics.com,,True,,201-500
+10465,Nova Partners,novapartners.io,,True,,1-10
+10466,Global Labs,globallabs.org,,True,,11-50
+10467,Global Logistics,globallogistics.net,,True,,500+
+10468,Tech Group,techgroup.org,,True,2026-02-03 23:01:18,1-10
+10469,Alpha Group,alphagroup.net,,True,,201-500
+10470,Tech Partners,techpartners.net,,True,,201-500
+10471,Alpha Digital,alphadigital.se,,True,,51-200
+10472,Apex Partners,apexpartners.com,,True,,51-200
+10473,Alpha Digital,alphadigital.io,Anna Svensson,True,,11-50
+10474,Global Logistics,globallogistics.io,,True,,500+
+10475,Nova Labs,novalabs.se,,True,,51-200
+10476,Nordic AB,nordicab.com,,True,,201-500
+10477,Urban Labs,urbanlabs.se,,True,,11-50
+10478,Nordic Digital,nordicdigital.com,,True,,11-50
+10479,Alpha AB,alphaab.org,,True,2026-01-18 23:01:18,500+
+10480,Svea Digital,sveadigital.io,,True,,11-50
+10481,Apex AB,apexab.org,,True,2025-11-02 23:01:18,11-50
+10482,Tech Digital,techdigital.se,,True,,11-50
+10483,Svea Solutions,sveasolutions.net,,True,,201-500
+10484,Nordic Group,nordicgroup.io,,True,2025-10-17 23:01:18,500+
+10485,Urban AB,urbanab.io,,True,,1-10
+10486,Alpha Labs,alphalabs.org,,True,,51-200
+10487,Alpha Logistics,alphalogistics.io,,True,2026-04-14 23:01:18,51-200
+10488,Alpha Logistics,alphalogistics.com,,True,,11-50
+10489,Tech Group,techgroup.io,,True,,500+
+10490,Apex Logistics,apexlogistics.net,,True,2025-10-31 23:01:18,51-200
+10491,Svea Labs,svealabs.com,,True,2026-07-27 23:01:18,201-500
+10492,Nova AB,novaab.io,,True,2026-07-06 23:01:18,1-10
+10493,Urban AB,urbanab.net,,True,2026-08-20 23:01:18,1-10
+10494,Alpha Group,alphagroup.se,,True,,500+
+10495,Tech Labs,techlabs.io,Anna Svensson,True,2026-05-12 23:01:18,11-50
+10496,Svea Labs,svealabs.org,,True,,11-50
+10497,Apex Group,apexgroup.org,,True,,1-10
+10498,Tech Logistics,techlogistics.net,,True,,500+
+10499,Alpha Logistics,alphalogistics.net,,True,2026-01-13 23:01:18,1-10
+10500,Nordic Digital,nordicdigital.io,,True,,11-50

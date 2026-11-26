@@ -1,57 +1,69 @@
-// Sektionen "Vad kan vi hjälpa dig med?" med fyra tjänstekort.
+// Sektionen "Vad kan vi hjälpa dig med?".
+// Istället för fyra likadana kort använder vi färgblock i olika storlekar
+// (ett så kallat "bento"-rutnät), vilket känns mer personligt.
 
 // Varje tjänst beskrivs som ett objekt i en lista.
-// Vill du lägga till en tjänst? Lägg bara till ett nytt objekt här.
+// "farg" styr blockets bakgrund och textfärg, "bred" gör blocket dubbelt så brett på dator.
 const tjanster = [
   {
+    nr: '01',
     titel: '3D-printing',
     text: 'Från digital modell till färdig produkt.',
-    // "d" är ritinstruktionerna för en enkel SVG-ikon
-    ikon: 'M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3zm0 0v18M4 7.5l8 4.5 8-4.5',
+    farg: 'bg-navy text-paper',
+    bred: true,
   },
   {
+    nr: '02',
     titel: 'Reservdelar',
     text: 'Ge trasiga produkter ett nytt liv.',
-    ikon: 'M14.7 6.3a4 4 0 00-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 005.4-5.4l-2.5 2.5-2.4-.6-.6-2.4 2.5-2.5z',
+    farg: 'bg-cyan text-navy',
+    bred: false,
   },
   {
+    nr: '03',
     titel: 'CAD-design',
     text: 'Måttanpassade digitala modeller.',
-    ikon: 'M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6',
+    farg: 'bg-ice text-navy',
+    bred: false,
   },
   {
+    nr: '04',
     titel: 'Prototyper',
     text: 'Testa och utveckla dina idéer.',
-    ikon: 'M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.4 1 1.1 1 1.9V16h5v-.2c0-.8.4-1.5 1-1.9A6 6 0 0012 3z',
+    farg: 'bg-blue text-white',
+    bred: true,
   },
 ]
 
 export default function Tjanster() {
   return (
     // id="tjanster" gör att länken #tjanster hoppar hit
-    <section id="tjanster" className="bg-mist py-24 sm:py-32">
-      <div className="mx-auto max-w-6xl px-5">
-        <h2 className="text-center text-3xl font-semibold tracking-tight sm:text-5xl">
+    <section id="tjanster" className="mx-auto max-w-6xl px-5 py-20 md:py-28">
+      <div className="flex flex-wrap items-end justify-between gap-4">
+        <h2 className="max-w-xl font-display text-4xl leading-tight font-bold tracking-tight sm:text-5xl">
           Vad kan vi hjälpa dig med?
         </h2>
+        <span className="font-mono text-xs text-navy/50 uppercase">4 tjänster</span>
+      </div>
 
-        {/* Rutnät: 1 kolumn på mobil, 2 på surfplatta, 4 på dator */}
-        <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {tjanster.map((tjanst) => (
-            <div
-              key={tjanst.titel}
-              className="rounded-3xl bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl hover:shadow-navy/5"
-            >
-              <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-blue to-cyan text-white">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                  <path d={tjanst.ikon} />
-                </svg>
-              </div>
-              <h3 className="mt-6 text-xl font-semibold">{tjanst.titel}</h3>
-              <p className="mt-2 text-navy/65">{tjanst.text}</p>
+      {/* Rutnät: 1 kolumn på mobil, 3 kolumner på dator. Breda block tar 2 kolumner. */}
+      <div className="mt-12 grid gap-4 md:grid-cols-3">
+        {tjanster.map((tjanst) => (
+          <div
+            key={tjanst.nr}
+            className={`flex min-h-56 flex-col justify-between rounded-2xl p-7 ${tjanst.farg} ${
+              tjanst.bred ? 'md:col-span-2' : ''
+            }`}
+          >
+            <span className="font-mono text-sm opacity-70">{tjanst.nr}</span>
+            <div>
+              <h3 className="font-display text-3xl font-bold tracking-tight sm:text-4xl">
+                {tjanst.titel}
+              </h3>
+              <p className="mt-2 text-lg opacity-80">{tjanst.text}</p>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
       </div>
     </section>
   )

@@ -3,6 +3,7 @@
 !/Databaser/
 !/databehandling/
 !/programmering/
+!/lagerin/
 
 databehandling/Chicago/chicago_crime.csv
 .env

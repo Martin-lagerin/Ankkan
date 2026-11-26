@@ -1,25 +1,43 @@
-/* Laddar in Tailwind CSS */
-@import 'tailwindcss' source('.'); /* source('.') = leta bara efter klasser i src-mappen */
+/* Laddar in Tailwind CSS. source('.') = leta bara efter klasser i src-mappen */
+@import 'tailwindcss' source('.');
 
 /*
-  Våra egna färger, hämtade från logotypen.
+  Våra egna färger och typsnitt.
   Tailwind skapar automatiskt klasser av dem, t.ex.
-  bg-navy, text-blue, from-cyan osv.
+  bg-navy, text-blue, bg-paper, font-display, font-mono.
 */
 @theme {
+  /* Från logotypen */
   --color-navy: #04213d;
   --color-blue: #0187fe;
   --color-cyan: #0bd5fe;
-  --color-mist: #f5f7fa; /* ljusgrå bakgrund för sektioner */
 
-  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  /* Varma, papperslika toner istället för kliniskt vitt */
+  --color-paper: #f4f1ea; /* sidans bakgrund */
+  --color-sand: #e8e2d6; /* kanter och avdelare */
+  --color-ice: #d7f3fb; /* ljus cyan för färgblock */
+
+  --font-display: 'Bricolage Grotesque Variable', system-ui, sans-serif;
+  --font-sans: 'Bricolage Grotesque Variable', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
 }
 
-/* Mjuk scroll när man klickar på länkar som #tjanster */
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  @apply bg-white font-sans text-navy antialiased;
+  @apply bg-paper font-sans text-navy antialiased;
+}
+
+/*
+  "Byggplatta": ett rutnät som påminner om plattan i en 3D-skrivare.
+  Används som bakgrund där bilder ska ligga men inte finns än.
+*/
+.byggplatta {
+  background-color: #fbfaf7;
+  background-image:
+    linear-gradient(to right, rgb(4 33 61 / 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(4 33 61 / 0.06) 1px, transparent 1px);
+  background-size: 24px 24px;
 }

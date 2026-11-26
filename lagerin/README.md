@@ -46,11 +46,13 @@ lagerin/
 └── src/
     ├── main.tsx          ← Startpunkten. Kopplar React till index.html.
     ├── App.tsx           ← Bestämmer ordningen på sidans delar.
-    ├── index.css         ← Tailwind + våra färger (navy, blue, cyan).
+    ├── index.css         ← Tailwind + våra färger och typsnitt.
     └── components/       ← En fil per del av sidan:
+        ├── Etikett.tsx   ← Liten återanvändbar etikett i monospace
         ├── Header.tsx    ← Logga och meny (med mobilmeny)
-        ├── Hero.tsx      ← "Från idé till verklighet."
-        ├── Tjanster.tsx  ← De fyra tjänstekorten
+        ├── Hero.tsx      ← "Från idé till verklighet." + stor bild
+        ├── Tjanster.tsx  ← De fyra tjänsterna som färgblock
+        ├── Process.tsx   ← "Så funkar det", tre steg
         ├── Galleri.tsx   ← "Tillverkat lager för lager."
         ├── Kontakt.tsx   ← "Har du en idé eller en trasig del?"
         └── Footer.tsx    ← Sidfoten
@@ -60,8 +62,11 @@ lagerin/
 
 - **Lägga in egna bilder i galleriet:** lägg bilden i `public/assets/projekt/` och fyll i
   `bild: '/assets/projekt/dittnamn.jpg'` i listan överst i `src/components/Galleri.tsx`.
+- **Byta bilden i toppen:** sätt `HERO_BILD` överst i `src/components/Hero.tsx`.
 - **Byta e-postadress:** ändra `EPOST` överst i `src/components/Kontakt.tsx`.
 - **Ändra färger:** ändra värdena under `@theme` i `src/index.css`.
+- **Typsnitt:** rubriker och text använder *Bricolage Grotesque*, små tekniska etiketter
+  *JetBrains Mono*. De installeras via npm och laddas i `src/main.tsx`.
 - **Ändra texter:** texterna står direkt i komponentfilerna i `src/components/`.
 
 ## Lite om Tailwind

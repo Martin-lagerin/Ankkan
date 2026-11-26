@@ -31,8 +31,14 @@ export default function Process() {
           {steg.map((s, index) => (
             <li key={s.titel} className="border-t-2 border-navy pt-5">
               {/* index börjar på 0, därför + 1 */}
-              <span className="font-mono text-sm text-blue">Steg {index + 1}</span>
-              <h3 className="mt-2 font-display text-2xl font-bold">{s.titel}</h3>
+              {/*
+                Stegnumret som en liten rundad "bricka" i ljus cyan,
+                med samma typsnitt som rubrikerna så att det hänger ihop.
+              */}
+              <span className="inline-block rounded-full bg-ice px-3 py-1 font-display text-sm font-semibold text-navy">
+                Steg {index + 1}
+              </span>
+              <h3 className="mt-3 font-display text-2xl font-bold">{s.titel}</h3>
               <p className="mt-2 leading-relaxed text-navy/70">{s.text}</p>
             </li>
           ))}

@@ -15,9 +15,9 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-navy/5 bg-white/80 backdrop-blur-md">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
+      <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-5">
         <a href="#" aria-label="LAGER:IN – till startsidan">
-          <img src="/assets/lagerin-logo.png" alt="LAGER:IN" className="h-8 w-auto sm:h-9" />
+          <img src="/assets/lagerin-logo.png" alt="LAGER:IN" className="h-11 w-auto sm:h-14" />
         </a>
 
         {/* Menyn för dator (dold på mobil tack vare "hidden md:flex") */}

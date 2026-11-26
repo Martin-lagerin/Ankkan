@@ -1,0 +1,25 @@
+/* Laddar in Tailwind CSS */
+@import 'tailwindcss' source('.'); /* source('.') = leta bara efter klasser i src-mappen */
+
+/*
+  Våra egna färger, hämtade från logotypen.
+  Tailwind skapar automatiskt klasser av dem, t.ex.
+  bg-navy, text-blue, from-cyan osv.
+*/
+@theme {
+  --color-navy: #04213d;
+  --color-blue: #0187fe;
+  --color-cyan: #0bd5fe;
+  --color-mist: #f5f7fa; /* ljusgrå bakgrund för sektioner */
+
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Mjuk scroll när man klickar på länkar som #tjanster */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white font-sans text-navy antialiased;
+}

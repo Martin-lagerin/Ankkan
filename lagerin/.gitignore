@@ -1,0 +1,3 @@
+# Mappar som skapas automatiskt – ska inte sparas i Git
+node_modules/
+dist/
